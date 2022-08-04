@@ -6,7 +6,7 @@ function Home() {
         <div className="home">
             <img
                 className="home-image"
-                src="https://i0.wp.com/www.inventiva.co.in/wp-content/uploads/2021/01/AmazonPrimeVideo-genetic.jpg"
+                src="https://m.media-amazon.com/images/G/01/sell/images/ogp/smile-blue-ogp-lg.jpg"
                 alt="background poster"
             />
             <div className="home-row">
